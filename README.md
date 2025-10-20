@@ -21,23 +21,19 @@
 <table align="center">
 <tr>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Recycling%20Symbol.png" width="70" alt="Eco-Friendly"/>
-<br><b>Eco-Friendly</b>
+<b>♻️ Eco-Friendly</b>
 <br><sub>Sustainable recycling</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="70" alt="AI-Powered"/>
-<br><b>AI-Powered</b>
+<b>🤖 AI-Powered</b>
 <br><sub>Smart assistance</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="70" alt="Secure"/>
-<br><b>Secure</b>
+<b>🔒 Secure</b>
 <br><sub>Safe transactions</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="70" alt="Fast"/>
-<br><b>Fast</b>
+<b>⚡ Fast</b>
 <br><sub>Quick pickups</sub>
 </td>
 </tr>
@@ -66,20 +62,14 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" width="80" alt="Features"/>
-<br>
 <h3>🎯 10+ Features</h3>
 <p>Comprehensive e-waste management tools</p>
 </td>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="80" alt="Modern Stack"/>
-<br>
 <h3>💻 Modern Stack</h3>
 <p>Built with latest technologies</p>
 </td>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="80" alt="Award Winner"/>
-<br>
 <h3>🏆 Award Winner</h3>
 <p>MIT Mysore Hackathon Champion</p>
 </td>
@@ -294,10 +284,6 @@
 
 ## 🚀 Getting Started
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="60" alt="Rocket"/>
-</div>
-
 ### Prerequisites
 
 ```bash
@@ -379,23 +365,15 @@ REACT_APP_PAYMENT_KEY=your_payment_key
 <table>
 <tr>
 <td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="55" height="55" />
-<br>Node.js
-</td>
-<td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=express" alt="Express" width="55" height="55" />
 <br>Express
-</td>
-<td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="55" height="55" />
-<br>MongoDB
 </td>
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="55" height="55" />
 <br>Firebase
 </td>
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="55" height="55" />
+<img src="https://skillicons.dev/icons?i=npm" alt="NPM" width="55" height="55" />
 <br>NPM
 </td>
 </tr>
@@ -1044,8 +1022,6 @@ See the [LICENSE](LICENSE) file for details
 ### 💚 Made with Love for a Sustainable Future 🌍
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-<br>
 
 <br>
 

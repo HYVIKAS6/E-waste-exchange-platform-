@@ -21,22 +21,22 @@
 <table align="center">
 <tr>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Recycling%20Symbol.png" width="70"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Recycling%20Symbol.png" width="70" alt="Eco-Friendly"/>
 <br><b>Eco-Friendly</b>
 <br><sub>Sustainable recycling</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="70"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="70" alt="AI-Powered"/>
 <br><b>AI-Powered</b>
 <br><sub>Smart assistance</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="70"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="70" alt="Secure"/>
 <br><b>Secure</b>
 <br><sub>Safe transactions</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="70"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="70" alt="Fast"/>
 <br><b>Fast</b>
 <br><sub>Quick pickups</sub>
 </td>
@@ -53,7 +53,7 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Overview Animation"/>
 
 </div>
 
@@ -66,19 +66,19 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" width="80"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" width="80" alt="Features"/>
 <br>
 <h3>🎯 10+ Features</h3>
 <p>Comprehensive e-waste management tools</p>
 </td>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="80"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="80" alt="Modern Stack"/>
 <br>
 <h3>💻 Modern Stack</h3>
 <p>Built with latest technologies</p>
 </td>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="80"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="80" alt="Award Winner"/>
 <br>
 <h3>🏆 Award Winner</h3>
 <p>MIT Mysore Hackathon Champion</p>
@@ -295,9 +295,7 @@
 ## 🚀 Getting Started
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="60"/>
-
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="60" alt="Rocket"/>
 </div>
 
 ### Prerequisites
@@ -395,6 +393,10 @@ REACT_APP_PAYMENT_KEY=your_payment_key
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="55" height="55" />
 <br>Firebase
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="55" height="55" />
+<br>NPM
 </td>
 </tr>
 </table>
@@ -837,17 +839,17 @@ See the [LICENSE](LICENSE) file for details
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="80"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="80" alt="MIT Mysore"/>
 <br><b>MIT Mysore</b>
 <br><sub>For hosting the hackathon</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Family.png" width="80"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" width="80" alt="Contributors"/>
 <br><b>Contributors</b>
 <br><sub>All supporters</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Green%20Heart.png" width="80"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Green%20Heart.png" width="80" alt="Open Source"/>
 <br><b>Open Source</b>
 <br><sub>The community</sub>
 </td>
@@ -897,34 +899,18 @@ See the [LICENSE](LICENSE) file for details
 
 ### 📧 Connect With Me
 
-<table>
-<tr>
-<td align="center">
 <a href="https://github.com/HYVIKAS6">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="40"/>
-<br><b>GitHub</b>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-</td>
-<td align="center">
 <a href="https://linkedin.com/in/vikashy">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="40"/>
-<br><b>LinkedIn</b>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-</td>
-<td align="center">
 <a href="https://vikashy.netlify.app">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="40"/>
-<br><b>Portfolio</b>
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
 </a>
-</td>
-<td align="center">
 <a href="mailto:vikas@example.com">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="40"/>
-<br><b>Email</b>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-</td>
-</tr>
-</table>
 
 <br>
 
